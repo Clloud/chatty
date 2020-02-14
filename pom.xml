@@ -45,6 +45,13 @@
             </exclusions>
         </dependency>
 
+        <!--netty-->
+        <dependency>
+            <groupId>io.netty</groupId>
+            <artifactId>netty-all</artifactId>
+            <version>4.1.25.Final</version>
+        </dependency>
+
         <!-- apache 工具类 -->
         <dependency>
             <groupId>commons-codec</groupId>
